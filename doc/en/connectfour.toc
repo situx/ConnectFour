@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Build instructions}{1}{section.2}
+\contentsline {section}{\numberline {2}Goal of the game}{1}{section.5}
+\contentsline {section}{\numberline {3}Strategy of the computer opponent}{1}{section.6}
+\contentsline {section}{\numberline {4}Screenshots}{2}{section.16}
